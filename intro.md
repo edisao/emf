@@ -10,6 +10,8 @@ Desde una especificación del modelo descrita en XMI, EMF suministra herramienta
 
 Los Modelos pueden ser especificados usando Anotación Java, documentos XML, o herramientas de modelado como Rational Rose, y después ser importados a EMF. Lo más importante de todo, EMF suministra las bases para la interoperabilidad con otras herramientas y aplicaciones basadas en EMF().
 
+![alt text](https://www.eclipse.org/modeling/emf/images/emf_logo.png)
+
 ```{tableofcontents}
 
 ```
