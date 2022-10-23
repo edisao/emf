@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: Eclipse Modeling Framework
-author: Edison Ramirez
+author: Edison Ramirez - https://github.com/edisao
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
