@@ -4,5 +4,5 @@
 format: jb-book
 root: intro
 chapters:
-  - file: emf
   - file: eclipse
+  - file: emf
