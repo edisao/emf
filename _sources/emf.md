@@ -34,3 +34,7 @@ Seleccionamos el template del proyecto:
 
 Y estamos listos para generar nuestro modelo, el entorno de trabajo es el siguiente:
 ![alt text](https://github.com/edisao/emf/blob/main/images/emf6.jpg?raw=true)
+
+Escenario de ejemplo:
+
+![alt text](https://github.com/edisao/emf/blob/main/images/emf7.jpg?raw=true)
