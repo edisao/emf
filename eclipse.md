@@ -13,10 +13,11 @@ En su página oficial (www.eclipse.org) lo definen como “una comunidad basada 
 La instalación de Eclipse se realiza desde: https://eclipse.org/downloads/eclipse-packages/.
 Seleccionamos la última versión para nuestro sistema operativo.
 
-![alt text](https://github.com/edisao/emf/blob/main/eclipse1.jpg?raw=true)
+![alt text](https://github.com/edisao/emf/blob/main/images/eclipse1.jpg?raw=true)
 
 Es importante seleccionar entre 32 y 64 bits, ya que eclipse necesita que tengamos instalada la máquina virtual java.
 
-![alt text](https://github.com/edisao/emf/blob/main/eclipse2.jpg?raw=true)
+![alt text](https://github.com/edisao/emf/blob/main/images/eclipse2.png?raw=true)
 
 Clic en Download:
+![alt text](https://github.com/edisao/emf/blob/main/images/eclipse3.jpg?raw=true)
